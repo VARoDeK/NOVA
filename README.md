@@ -2,8 +2,8 @@
 
 -------------------------------------------------------------------
 ## It is just for Display
-NOVA (Number One Virtual Assistant). As this is the project which I made for 12th std, it is just for display. No Pull requests will be entertained.
-I will surely take this project forward, but I will introduce another repository for that.
+- NOVA (Number One Virtual Assistant). As this is the project which I made for 12th std, it is just for display. No Pull requests will be entertained.
+- I will surely take this project forward, but I will introduce another repository for that.
 -------------------------------------------------------------------
 
 ##How to use
