@@ -1,5 +1,6 @@
 # NOVA
 NOVA (Number One Virtual Assistant). As this is the project which I made for 12th std, it is just for display. No Pull requests will be entertained.
+I will surely take this project forward, but I will introduce another repository for that.
 -------------------------------------------------------------------
 
 This project was compiled using Turbo C++. It is a 16 bit compiler.
@@ -8,6 +9,10 @@ To use it:
 - Install Turbo on your system.
 - Then copy all 3 files in `tc/bin` folder created by Turbo.
 - Here you go, Run.
+
+-------------------------------------------------------------------
+
+## The project I made in 11th, was made as a subset of this project. (The snake game)
 
 -------------------------------------------------------------------
 ## Screenshots
