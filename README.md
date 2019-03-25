@@ -6,7 +6,7 @@
 - I will surely take this project forward, but I will introduce another repository for that.
 -------------------------------------------------------------------
 
-##How to use
+## How to use
 This project was compiled using Turbo C++. It is a 16 bit compiler.
 Though it is old, but it was required according to syllabus. 
 To use it:
