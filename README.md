@@ -1,8 +1,12 @@
 # NOVA
+
+-------------------------------------------------------------------
+## It is just for Display
 NOVA (Number One Virtual Assistant). As this is the project which I made for 12th std, it is just for display. No Pull requests will be entertained.
 I will surely take this project forward, but I will introduce another repository for that.
 -------------------------------------------------------------------
 
+##How to use
 This project was compiled using Turbo C++. It is a 16 bit compiler.
 Though it is old, but it was required according to syllabus. 
 To use it:
